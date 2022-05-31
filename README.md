@@ -21,7 +21,7 @@ https://www.youtube.com/watch?v=OlJdJEWNO40
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb)
 
-1. change the path from /github/fahim1703061/AI-Lab/fname.ipnyb
+1. change the path from /github/fahim1703061/AI-Lab/blob/master/fname.ipnyb
 
 reference
 
